@@ -13,7 +13,7 @@ import com.tcs.angular.angular4.dto.Country;
 /**
  * 
  * @author Maruthi Sayampu
- *This is With CompletableFuture means not parallel
+ *This is With CompletableFuture means parallel
  */
 @Service
 public class CountryService {
