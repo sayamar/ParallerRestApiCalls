@@ -1,0 +1,24 @@
+/**
+ * 
+ */
+package com.tcs.angular.angular4.dto;
+
+/**
+ * @author HP
+ *
+ */
+public class Country {
+	
+	private String name;
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+	
+	
+
+}
